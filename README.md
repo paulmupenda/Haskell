@@ -1,13 +1,11 @@
 This repository includes Haskell base training. 
 
-The exercises in this repo come from the book Learn You a Haskell for Great Good]http://learnyouahaskell.com/ .
-
-end
-
-From the WADA repo: dev_tools_january_2022_hackathon]
-https://github.com/WADAlliance/dev_tools_january_hackathon
+The exercises in this repo come from the 
+## IOHK 
+** Here is the Github repo https://github.com/input-output-hk/haskell-course
+** Here is the Youtube's video https://www.youtube.com/playlist?list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb
+** Here is the Canvas modules https://iohk.instructure.com/courses/141/modules/items/898
 
 
 ## Getting Started
 
-First
